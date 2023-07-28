@@ -157,7 +157,7 @@ li{
 }
 
 .content-4{
-    background-image: url(header.jpg);
+    background-image: url(header.jpg); background-repeat: round;
 }
 
 .content-4-box{
